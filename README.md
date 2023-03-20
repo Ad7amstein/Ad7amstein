@@ -1,5 +1,6 @@
 <h1 style="text-align: center"> Hi there 👋, I'm Adham Allam </h1>
-## I am a software enginner
+<p>I am a software enginner</p>
+
 <br>
 - 🏫 I am a Junior at Faculty of Computers & AI at Cairo University.
 - 👨‍💻 I love solving challenging problems.
