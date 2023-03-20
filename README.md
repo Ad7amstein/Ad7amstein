@@ -1,5 +1,5 @@
 <!-- Hello -->
-<h1 align="center"><a href="https://freeimage.host/i/HhITEx9"><img src="https://iili.io/HhITEx9.md.png" alt="HhITEx9.md.png" border="0" width="60%"></a><br /><a target='_blank' href='https://freeimage.host/fr'></a><br /></h1>
+<h1 align="center"><a href="https://freeimage.host/i/HhITEx9"><img src="https://iili.io/HhITEx9.md.png" alt="HhITEx9.md.png" border="0" width="70%" height="50%"></a><br /><a target='_blank' href='https://freeimage.host/fr'></a><br /></h1>
 
 <h1 align="center">Hi there 👋, I'm Adham Allam</h1>
 
