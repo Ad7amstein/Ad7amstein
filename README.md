@@ -12,8 +12,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ad7amstein&repo=Find-The-Massage&theme=chartreuse-dark" />
 </a>
 
+<hr>
+
 <!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad7amstein)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad7amstein&theme=vision-friendly-dark)](https://github.com/Ad7amstein/github-readme-stats)
 
 <!-- Github status -->
 ![Ad7amstein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ad7amstein&show_icons=true&theme=vision-friendly-dark&count_private=true)  
