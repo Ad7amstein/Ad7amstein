@@ -7,7 +7,7 @@
 <h1 align="center">Hi there 👋, I'm Adham Allam</h1>
 
 <!-- Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=33F7D4&center=true&vCenter=true&width=435&lines=Software+Engineer;Computer+Science+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=33F7D4&center=true&vCenter=true&width=435&lines=Software+Engineer;Computer+Science+Student" alt="Typing SVG" align="center" /></a>
 
 <hr>
 
