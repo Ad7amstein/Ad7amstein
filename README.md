@@ -1,7 +1,7 @@
 <!-- Hello -->
 <h1 align="center"><a href="https://freeimage.host/i/HhITEx9"><img src="https://iili.io/HhITEx9.md.png" alt="HhITEx9.md.png" border="0"></a><br /><a target='_blank' href='https://freeimage.host/fr'></a><br /></h1>
 
-# Hi there 👋, I'm Adham Allam
+<h2 align="center">Hi there 👋, I'm Adham Allam</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=33F7D4&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Computer+Science+Student)](https://git.io/typing-svg)
 
