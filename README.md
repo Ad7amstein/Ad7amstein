@@ -10,6 +10,8 @@
 <div  align="center" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=33F7D4&center=true&vCenter=true&width=435&lines=Software+Engineer;Computer+Science+Student" alt="Typing SVG"/></a>
 </div>
+<br>
+![Profile views](https://gpvc.arturio.dev/Ad7amstein)
 <hr>
 
 <!-- About Me -->
@@ -30,6 +32,4 @@
 
 <!-- Github status -->
 ![Ad7amstein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ad7amstein&show_icons=true&theme=vision-friendly-dark&count_private=true)  
-
-![Profile views](https://gpvc.arturio.dev/Ad7amstein)  
 
