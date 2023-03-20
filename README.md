@@ -1,4 +1,4 @@
-### Hi there, I'm Adham Allam 👋
+# Hi there, I'm Adham Allam 👋
 
 <!--
 **Ad7amstein/Ad7amstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
