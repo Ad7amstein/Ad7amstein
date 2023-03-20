@@ -9,6 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad7amstein)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ad7amstein&show_icons=true&theme=vision-friendly-dark)  
+![Ad7amstein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ad7amstein&show_icons=true&theme=vision-friendly-dark&count_private=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Ad7amstein)  
