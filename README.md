@@ -25,7 +25,10 @@
 <a href="https://github.com/Ad7amstein/Find-The-Massage">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Find-The-Massage&theme=chartreuse-dark" />
 </a>
-
+<!-- Repo2: Find the massage -->
+<a href="https://github.com/Ad7amstein/sorting_algorithms">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=sorting_algorithms&theme=chartreuse-dark" />
+</a>
 <hr>
 
 <!-- Top Languages -->
