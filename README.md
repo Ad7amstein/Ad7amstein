@@ -29,6 +29,7 @@
 <a href="https://github.com/Ad7amstein/sorting_algorithms">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=sorting_algorithms&theme=chartreuse-dark" />
 </a>
+
 <hr>
 
 <!-- Top Languages -->
