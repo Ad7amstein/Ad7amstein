@@ -21,8 +21,11 @@
 <br>
 - 👨‍💻 I love solving challenging problems.
 
+<!-- Contact Me -->
+<h3>Contact me:</h3>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ad7amstein)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/adham-allam-284486254//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@kiloeducation360)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Adham.3llam)  
 
+<h3>My repositories</h3>
 <!-- Repo1: alx-low_level_programming -->
 <a href="https://github.com/Ad7amstein/alx-low_level_programming">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=alx-low_level_programming&theme=chartreuse-dark" />
@@ -40,6 +43,7 @@
 
 <hr>
 
+<h3>Github status</h3>
 <!-- Top Languages -->
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ad7amstein&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
