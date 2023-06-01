@@ -16,7 +16,7 @@
 	<!--<a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/7oSkaaa" alt="Most Active Users" target="_blank" width=40%/> 
 	</a>-->
-	<img src="https://komarev.com/ghpvc/?username=Ad7amstein&label=Profile%20views&color=33ff33&labelColor=000000&style=for-the-badge" alt="Ad7amstein" width=19.40%/>
+	<img src="https://komarev.com/ghpvc/?username=Ad7amstein&label=Profile%20views&color=33ff33&labelColor=ffffff&style=for-the-badge" alt="Ad7amstein" width=19.40%/>
 	<!---
 		<a href = "https://commits.top/egypt.html" target="_blank">
 			<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
