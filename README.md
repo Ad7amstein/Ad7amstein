@@ -1,6 +1,6 @@
 <!-- Hello -->
 <div align="center">
-<a href="https://freeimage.host/i/HhITEx9"><img src="https://iili.io/HhITEx9.md.png" alt="HhITEx9.md.png" border="0"></a><br /><a target='_blank' href='https://freeimage.host/fr'></a><br />
+<a href="https://freeimage.host/i/HhITEx9"><img src="https://iili.io/HhITEx9.md.png" alt="HhITEx9.md.png" border="0"></a><br /><a target="_blank" href='https://freeimage.host/fr'></a><br />
 </div>
 
 <!-- My Name -->
@@ -36,7 +36,7 @@
 <!-- Problem solving -->
 ## My Competitive Programming Profiles
 <div align="center" width=100%>
-  <a href="https://codeforces.com/profile/Adham.3llam" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
+  <a href="https://codeforces.com/profile/Adham.3llam" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6% target="_blank"/></a>
 	  &emsp; 
 	<a href="https://leetcode.com/La-Pulga/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
 	  &emsp; 
