@@ -39,9 +39,7 @@
 	<a href="https://leetcode.com/La-Pulga/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
 	  &emsp; 
 </div>
-
 <br>
-
 <!-- Contact Me -->
 ## Contact Me
 <p align="center">
@@ -51,7 +49,7 @@
 	<a href="https://www.linkedin.com/in/adham-allam-284486254/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<!--<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>-->
 	<!--<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>-->
-
+<br>
 </p>## My Repositories:
 <!-- Repo0: alx-low_level_programming -->
 <a href="https://github.com/Ad7amstein/alx-low_level_programming">
