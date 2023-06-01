@@ -28,7 +28,7 @@
 
 <!-- About Me -->
 ## About Me:
-- 🏫 I am a Junior at Faculty of Computers & AI at Cairo University.
+- 🏫 I am a `Junior` at Faculty of Computers & AI at Cairo University.
 - 👨‍💻 I love solving challenging problems.
 
 <!-- Contact Me -->
