@@ -30,6 +30,7 @@
 ## About Me:
 - 🏫 I am a `Junior` at Faculty of Computers & AI at Cairo University.
 - 👨‍💻 I love solving challenging problems.
+<br>
 
 <!-- Problem solving -->
 ## My Competitive Programming Profiles
@@ -51,7 +52,9 @@
 	<!--<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>-->
 	<!--<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>-->
 <br>
-</p>## My Repositories:
+
+## My Repositories
+</p>
 <!-- Repo0: alx-low_level_programming -->
 <a href="https://github.com/Ad7amstein/alx-low_level_programming">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=alx-low_level_programming&theme=chartreuse-dark" />
