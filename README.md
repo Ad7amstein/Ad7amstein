@@ -7,9 +7,9 @@
 <h1 align="center">Hi there 👋, I'm Adham Allam</h1>
 
 <!-- Typing -->
-<div  align="center" >
+<p  align="center" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=33F7D4&center=true&vCenter=true&width=435&lines=Software+Engineer;Computer+Science+Student" alt="Typing SVG"/></a>
-</div>
+</p>
 <br>
 
 ![Profile views](https://gpvc.arturio.dev/Ad7amstein)  
