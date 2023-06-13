@@ -30,7 +30,7 @@
 <!-- About Me -->
 ## About Me:
 - 🏫 I am a `Junior` at Faculty of Computers & AI at Cairo University.
-- 👨‍💻 I love solving challenging problems.
+- 👨‍💻 I love challenges problem solving.
 <br>
 
 <!-- Problem solving -->
