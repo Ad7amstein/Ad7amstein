@@ -39,7 +39,7 @@
   <a href="https://codeforces.com/profile/Adham.3llam" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
   &emsp; 
 <a href="https://www.hackerrank.com/adham32003200">
-  <img align="center" alt="Falguni @Hackerrank" height="70" width=7% src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
+  <img align="center" alt="Falguni @Hackerrank" height="65" width=7% src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
 </a>
 &emsp; 
   <a href="https://leetcode.com/La-Pulga/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=6%/></a>
