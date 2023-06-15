@@ -40,8 +40,6 @@
   &emsp; 
   <a href="https://leetcode.com/La-Pulga/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=6%/></a>
 &emsp; 
-	<a href="https://freeimage.host/"><img src="https://iili.io/H6X589S.jpg" alt="H6X589S.jpg" border="0"></a><br /><a target='_blank' href='https://freeimage.host/'>best free image hosting</a><br />
-	&emsp; 
 <a href="https://www.hackerrank.com/adham32003200">
   <img align="center" alt="Falguni @Hackerrank" height="70" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
 </a>
