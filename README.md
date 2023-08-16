@@ -110,7 +110,7 @@
 ----
 	
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ad7amstein&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Ad7amstein" height="230px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ad7amstein&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Ad7amstein"/>
 </p>
 <br/>
 </details>
