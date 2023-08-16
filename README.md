@@ -84,6 +84,13 @@
 <hr>
 
 ## GitHub Status:
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ad7amstein&theme=tokyonight_duo" alt="Ad7amstein" /></p>
+
+</details>
 <!-- Top Languages -->
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ad7amstein&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
