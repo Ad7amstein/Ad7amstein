@@ -84,6 +84,7 @@
 <hr>
 
 ## GitHub Status:
+<!-- Streak Status-->
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
@@ -91,8 +92,16 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ad7amstein&theme=tokyonight_duo" alt="Ad7amstein" /></p>
 
 </details>
-<!-- Top Languages -->
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ad7amstein&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Contributions -->
+<details><summary><h3>💻 Contribution Stats</h3></summary>
+
+----
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Ad7amstein's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ad7amstein&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+<br/>
+</details>
 
 <!-- Github status -->
 ![Ad7amstein's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ad7amstein&show_icons=true&theme=vision-friendly-dark&count_private=true)  
