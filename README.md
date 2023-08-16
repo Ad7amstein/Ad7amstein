@@ -113,5 +113,3 @@
 </p>
 <br/>
 </details>
-<!-- Github status -->
-![Ad7amstein's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ad7amstein&show_icons=true&theme=vision-friendly-dark&count_private=true)  
