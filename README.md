@@ -101,7 +101,18 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="Ad7amstein's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ad7amstein&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 <br/>
+</p>
 </details>
 
+<!-- Top Languages -->
+<details><summary><h3>💻 Top Languages</h3></summary>
+
+----
+	
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ad7amstein&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Ad7amstein" height="230px"/>
+</p>
+<br/>
+</details>
 <!-- Github status -->
 ![Ad7amstein's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ad7amstein&show_icons=true&theme=vision-friendly-dark&count_private=true)  
