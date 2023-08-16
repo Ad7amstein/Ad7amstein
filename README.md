@@ -98,8 +98,7 @@
 ----
 	
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Ad7amstein's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ad7amstein&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/></a>
+	<img alt="Ad7amstein's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ad7amstein&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
 <br/>
 </p>
 </details>
@@ -110,7 +109,6 @@
 ----
 	
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ad7amstein&langs_count=10&show_icons=true&locale=en&theme=dark" alt="Ad7amstein"/>
 </p>
 <br/>
 </details>
