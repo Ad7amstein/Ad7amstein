@@ -104,7 +104,7 @@
 </details>
 
 <!-- Top Languages -->
-<details><summary><h3>💻 Top Languages</h3></summary>
+<details><summary><h3>📊 Top Languages</h3></summary>
 
 ----
 	
