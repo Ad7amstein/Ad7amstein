@@ -68,6 +68,10 @@
 		<img src="./images/linkedin.png" alt="Linkedin"/>
 	</a>
 	&emsp;
+	<a href="https://t.me/Adham_3llam" target="_blank">
+		<img src="./images/telegram.png" alt="Telegram"/>
+	</a>
+	&emsp;
 </p>
 <br>
 
