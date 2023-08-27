@@ -39,15 +39,16 @@
 <div align="center" width=100%>
 	<a href="https://codeforces.com/profile/Adham.3llam" target="_blank">
 		<img src="./images/codeforces.png" alt="Codeforces"/>
-	</a>&emsp;
-  <a href="https://codeforces.com/profile/Adham.3llam" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
-  &emsp; 
-<a href="https://www.hackerrank.com/adham32003200">
-  <img align="center" alt="Falguni @Hackerrank" height="65" width=7% src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
-</a>
-&emsp; 
-  <a href="https://leetcode.com/La-Pulga/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=6%/></a>
-&emsp; 
+	</a>
+	&emsp;
+	<a href="https://www.hackerrank.com/adham32003200" target="_blank">
+		<img src="./images/hackerrank.png" alt="hackerrank"/>
+	</a>
+	&emsp;
+	<a href="https://leetcode.com/La-Pulga/" target="_blank">
+		<img src="./images/leetcode.png" alt="LeetCode"/>
+	</a>
+	&emsp;
 </div>
 
 <br>
