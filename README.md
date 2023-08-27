@@ -72,6 +72,10 @@
 		<img src="./images/telegram.png" alt="Telegram"/>
 	</a>
 	&emsp;
+	<a href="https://twitter.com/Adham_3llam" target="_blank">
+		<img src="./images/twitter.png" alt="Telegram"/>
+	</a>
+	&emsp;
 </p>
 <br>
 
