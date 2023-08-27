@@ -39,7 +39,7 @@
 <div align="center" width=100%>
 	<a href="https://codeforces.com/profile/Adham.3llam" target="_blank">
 		<img src="./images/codeforces.png" alt="Codeforces"/>
-	</a>
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
 	&emsp;
   <a href="https://codeforces.com/profile/Adham.3llam" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
