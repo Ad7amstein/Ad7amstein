@@ -61,17 +61,17 @@
 	</a>
 	&emsp;
 	<a href="https://github.com/Ad7amstein" target="_blank">
-		<img src="./images/github.png" alt="Gmail"/>
+		<img src="./images/github.png" alt="Github"/>
 	</a>
 	&emsp;
-	<!--<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>-->
-	<a href="https://www.linkedin.com/in/adham-allam-284486254/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<!--<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>-->
-	<!--<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>-->
+	<a href="https://www.linkedin.com/in/adham-allam/" target="_blank">
+		<img src="./images/linkedin.png" alt="Linkedin"/>
+	</a>
+	&emsp;
+</p>
 <br>
 
 ## My Repositories
-</p>
 <!-- Repo0: alx-low_level_programming -->
 <a href="https://github.com/Ad7amstein/alx-low_level_programming">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=alx-low_level_programming&theme=chartreuse-dark" />
