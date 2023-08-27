@@ -37,8 +37,6 @@
 <!-- Problem solving -->
 ## My Competitive Programming Profiles
 <div align="center" width=100%>
-	<img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3ECodeforces%3C%2Ftitle%3E%3Cpath%20d%3D%22M4.5%207.5C5.328%207.5%206%208.172%206%209v10.5c0%20.828-.672%201.5-1.5%201.5h-3C.673%2021%200%2020.328%200%2019.5V9c0-.828.673-1.5%201.5-1.5h3zm9-4.5c.828%200%201.5.672%201.5%201.5v15c0%20.828-.672%201.5-1.5%201.5h-3c-.827%200-1.5-.672-1.5-1.5v-15c0-.828.673-1.5%201.5-1.5h3zm9%207.5c.828%200%201.5.672%201.5%201.5v7.5c0%20.828-.672%201.5-1.5%201.5h-3c-.828%200-1.5-.672-1.5-1.5V12c0-.828.672-1.5%201.5-1.5h3z%22%2F%3E%3C%2Fsvg%3E" alt="Codeforces SVG"/>
-	<br>
   <a href="https://codeforces.com/profile/Adham.3llam" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
   &emsp; 
 <a href="https://www.hackerrank.com/adham32003200">
