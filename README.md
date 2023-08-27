@@ -37,8 +37,8 @@
 <!-- Problem solving -->
 ## My Competitive Programming Profiles
 <div align="center" width=100%>
-	<a href="">
-		<img src="./images/codeforces.svg">
+	<a href="https://codeforces.com/profile/Adham.3llam" target="_blank">
+		<img src="./images/codeforces.svg" alt="Codeforces"/>
 	</a>
 	&emsp;
   <a href="https://codeforces.com/profile/Adham.3llam" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
