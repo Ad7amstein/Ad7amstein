@@ -73,7 +73,11 @@
 	</a>
 	&emsp;
 	<a href="https://twitter.com/Adham_3llam" target="_blank">
-		<img src="./images/twitter.png" alt="Telegram"/>
+		<img src="./images/twitter.png" alt="Twitter"/>
+	</a>
+	&emsp;
+	<a href="https://www.youtube.com/@kiloeducation360" target="_blank">
+		<img src="./images/youtube.png" alt="Youtube"/>
 	</a>
 	&emsp;
 </p>
