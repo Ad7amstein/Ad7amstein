@@ -99,11 +99,6 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Board-Game-System&theme=chartreuse-dark" />
 </a>
 
-<!-- Repo3: sorting_algorithms -->
-<a href="https://github.com/Ad7amstein/sorting_algorithms">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=sorting_algorithms&theme=chartreuse-dark" />
-</a>
-
 <hr>
 
 ## GitHub Status:
