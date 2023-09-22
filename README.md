@@ -84,7 +84,7 @@
 <br>
 
 ## My Repositories
-<!-- Repo0: alx-low_level_programming -->
+<!-- Repo1: alx-low_level_programming -->
 <a href="https://github.com/Ad7amstein/alx-low_level_programming">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=alx-low_level_programming&theme=chartreuse-dark" />
 </a>
@@ -94,9 +94,14 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=printf&theme=chartreuse-dark" />
 </a>
 
-<!-- Repo1: Board-Game-System -->
+<!-- Repo3: Board-Game-System -->
 <a href="https://github.com/Ad7amstein/Board-Game-System">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Board-Game-System&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo4: Sorting Algorithms -->
+<a href="https://github.com/Ad7amstein/sorting_algorithms">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=sorting_algorithms&theme=chartreuse-dark" />
 </a>
 
 <hr>
