@@ -32,6 +32,7 @@
 - 🏫 I am a `Junior` at Faculty of Computers & AI at Cairo University.
 - 💻 I am a `Software Engineer Intern` at ALX
 - 👨‍💻 I love challenges problem solving.
+- 🔭 I’m currently working on `competitive programming`.
 <br>
 
 <!-- Problem solving -->
