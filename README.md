@@ -8,7 +8,7 @@
 
 <!-- Typing -->
 <p  align="center" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=02F730&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Software+Engineer+%40+ALX" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=02F730&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+Student;Software+Engineer+%40+ALX;Competitive+Programmer" alt="Typing SVG" /></a>
 </p>
 <br>
 
@@ -32,6 +32,7 @@
 - 🏫 I am a `Junior` at Faculty of Computers & AI at Cairo University.
 - 💻 I am a `Software Engineer Intern` at ALX
 - 👨‍💻 I love challenges problem solving.
+- 🔭 I’m currently working on `competitive programming`.
 <br>
 
 <!-- Problem solving -->
