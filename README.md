@@ -41,12 +41,17 @@
 		<img src="./images/codeforces.png" alt="Codeforces"/>
 	</a>
 	&emsp;
+	<a href="https://leetcode.com/La-Pulga/" target="_blank">
+		<img src="./images/leetcode.png" alt="LeetCode"/>
+	</a>
+	&emsp;
 	<a href="https://www.hackerrank.com/adham32003200" target="_blank">
 		<img src="./images/hackerrank.png" alt="hackerrank"/>
 	</a>
 	&emsp;
-	<a href="https://leetcode.com/La-Pulga/" target="_blank">
-		<img src="./images/leetcode.png" alt="LeetCode"/>
+	&emsp;
+	<a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15" target="_blank">
+		<img src="./images/uva.png" width="45" alt="UVA"/>
 	</a>
 	&emsp;
 </div>
