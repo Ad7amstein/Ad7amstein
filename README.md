@@ -51,7 +51,7 @@
 	</a>
 	&emsp;
 	&emsp;
-	<a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15" target="_blank">
+	<a href="https://uhunt.onlinejudge.org/id/1389257" target="_blank">
 		<img src="./images/uva.png" width="45" alt="UVA"/>
 	</a>
 	&emsp;
