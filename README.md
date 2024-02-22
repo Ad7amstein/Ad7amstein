@@ -28,15 +28,19 @@
 <hr>
 
 <!-- About Me -->
+
 ## About Me:
+
 - 🏫 I am a `Junior` at Faculty of Computers & AI at Cairo University.
 - 💻 I am a `Software Engineer Intern` at ALX
 - 👨‍💻 I love challenges problem solving.
 - 🔭 I’m currently working on `competitive programming`.
-<br>
+  <br>
 
 <!-- Problem solving -->
+
 ## My Competitive Programming Profiles
+
 <div align="center" width=100%>
 	<a href="https://codeforces.com/profile/Adham.3llam" target="_blank">
 		<img src="./images/codeforces.png" alt="Codeforces"/>
@@ -50,9 +54,12 @@
 		<img src="./images/hackerrank.png" alt="hackerrank"/>
 	</a>
 	&emsp;
+	<a href="https://www.spoj.com/users/ad7am_3llam/" target="_blank">
+		<img src="./images/spoj.png" width="46" alt="UVA"/>
+	</a>
 	&emsp;
 	<a href="https://uhunt.onlinejudge.org/id/1389257" target="_blank">
-		<img src="./images/uva.png" width="45" alt="UVA"/>
+		<img src="./images/uva.png" width="43" alt="UVA"/>
 	</a>
 	&emsp;
 </div>
@@ -60,7 +67,9 @@
 <br>
 
 <!-- Contact Me -->
+
 ## Contact Me
+
 <p align="center">
 	<a href="mailto:adham32003200@gmail.com" target="_blank">
 		<img src="./images/gmail.png" alt="Gmail"/>
@@ -90,6 +99,7 @@
 <br>
 
 ## My Repositories
+
 <!-- Repo1: alx-low_level_programming -->
 <a href="https://github.com/Ad7amstein/alx-low_level_programming">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=alx-low_level_programming&theme=chartreuse-dark" />
@@ -113,10 +123,11 @@
 <hr>
 
 ## GitHub Status:
+
 <!-- Streak Status-->
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-----	
+----
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ad7amstein&theme=tokyonight_duo" alt="Ad7amstein" /></p>
 
@@ -124,8 +135,8 @@
 <!-- Contributions -->
 <details><summary><h3>💻 Contribution Stats</h3></summary>
 
-----
-	
+---
+
 <p align="center">
 	<img alt="Ad7amstein's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ad7amstein&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
 <br/>
@@ -135,8 +146,8 @@
 <!-- Top Languages -->
 <details><summary><h3>📊 Top Languages</h3></summary>
 
-----
-	
+---
+
 <p align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad7amstein&layout=pie&theme=dark" alt="Top Languages">
 </p>
