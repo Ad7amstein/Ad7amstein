@@ -55,7 +55,7 @@
 	</a>
 	&emsp;
 	<a href="https://www.spoj.com/users/ad7am_3llam/" target="_blank">
-		<img src="./images/spoj.png" width="46" alt="UVA"/>
+		<img src="./images/spoj.png" width="46" alt="spoj"/>
 	</a>
 	&emsp;
 	<a href="https://uhunt.onlinejudge.org/id/1389257" target="_blank">
