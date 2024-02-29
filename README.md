@@ -35,7 +35,7 @@
 - 💻 I am a `Software Engineer Intern` at ALX
 - 👨‍💻 I love challenges problem solving.
 - 🔭 I’m currently working on `competitive programming`.
-- 🤔 I’m currently open for a new job opportunity, this is <a href="https://drive.google.com/drive/folders/1lmUob2Y0L_1xPJgfzGrWjc8ZWCKlyXRB?usp=drive_link">MY RESUME<a>.
+- 🤔 I’m currently open for a new `job opportunity`, this is <a href="https://drive.google.com/drive/folders/1lmUob2Y0L_1xPJgfzGrWjc8ZWCKlyXRB?usp=drive_link">MY RESUME<a>.
   <br>
 
 <!-- Problem solving -->
