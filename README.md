@@ -47,7 +47,7 @@
 		<img src="./images/codeforces.png" alt="Codeforces"/>
 	</a>
 	&emsp;
-	<a href="https://leetcode.com/La-Pulga/" target="_blank">
+	<a href="https://leetcode.com/Adham_3llam/" target="_blank">
 		<img src="./images/leetcode.png" alt="LeetCode"/>
 	</a>
 	&emsp;
