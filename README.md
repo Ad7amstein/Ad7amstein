@@ -20,7 +20,7 @@
 	<img src="https://komarev.com/ghpvc/?username=Ad7amstein&label=Profile%20views&color=00e600&labelColor=000000&style=for-the-badge" alt="Ad7amstein" width=19.40%/>
 	&emsp;
 	<a href="https://user-badge.committers.top/egypt_private/Ad7amstein">
-	    <img src="https://user-badge.committers.top/egypt_private/Ad7amstein.svg" alt="committers.top badge">
+	    <img src="https://user-badge.committers.top/egypt_private/Ad7amstein.svg" alt="committers.top badge" width=19.40%>
 	</a>
 
 </p>
