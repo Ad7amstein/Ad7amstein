@@ -18,8 +18,11 @@
 		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/7oSkaaa" alt="Most Active Users" target="_blank" width=40%/> 
 	</a>-->
 	<img src="https://komarev.com/ghpvc/?username=Ad7amstein&label=Profile%20views&color=00e600&labelColor=000000&style=for-the-badge" alt="Ad7amstein" width=19.40%/>
-	
-[![committers.top badge](https://user-badge.committers.top/egypt_private/Ad7amstein.svg)](https://user-badge.committers.top/egypt_private/Ad7amstein)
+	&emsp;
+	<a href="https://user-badge.committers.top/egypt_private/Ad7amstein">
+	    <img src="https://user-badge.committers.top/egypt_private/Ad7amstein.svg" alt="committers.top badge">
+	</a>
+
 </p>
 <!--![Profile views](https://gpvc.arturio.dev/Ad7amstein)  -->
 <hr>
