@@ -101,9 +101,9 @@
 
 ## My Repositories
 
-<!-- Repo1: alx-low_level_programming -->
-<a href="https://github.com/Ad7amstein/alx-low_level_programming">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=alx-low_level_programming&theme=chartreuse-dark" />
+<!-- Repo1: DerivativeXpert -->
+<a href="https://github.com/Ad7amstein/DerivativeXpert">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=DerivativeXpert&theme=chartreuse-dark" />
 </a>
 
 <!-- Repo2: Printf -->
