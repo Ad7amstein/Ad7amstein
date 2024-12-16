@@ -112,7 +112,7 @@
 ### 🧰 Frameworks and libraries
 
 <div align="center" >
-    <a href="https://github.com/liliansteven"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white"></a>
+    <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white">
     <a href="https://github.com/liliansteven"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://github.com/liliansteven"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black"></a>
     <a href="https://github.com/liliansteven"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white"></a>
