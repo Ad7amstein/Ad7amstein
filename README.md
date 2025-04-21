@@ -190,7 +190,7 @@
 ---
 
 <p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad7amstein&layout=pie&theme=dark" alt="Top Languages">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad7amstein&layout=pie&theme=dark&hide=jupyter%20notebook" alt="Top Languages">
 </p>
 <br/>
 </details>
