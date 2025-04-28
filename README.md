@@ -153,7 +153,7 @@
 
 <!-- Repo3: Deep-Facial-Recognition -->
 <a href="https://github.com/Ad7amstein/Deep-Facial-Recognition">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Board-Game-System&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Deep-Facial-Recognition&theme=chartreuse-dark" />
 </a>
 
 <!-- Repo4: Sorting Algorithms -->
