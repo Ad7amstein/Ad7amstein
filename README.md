@@ -118,6 +118,7 @@
     <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white">
     <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white">
     <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white">
+    <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-1C1E21.svg?logo=crewai&logoColor=white">
 <!--     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?ogo=plotly&logoColor=white">< -->
 <!--     <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white"> -->
 <!--     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"> -->
@@ -132,6 +133,7 @@
     <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
     <img alt="Colab Notebook" src="https://img.shields.io/badge/colab-notebook-yellow">
+    <img alt="Cursor" src="https://img.shields.io/badge/Cursor-1C1E21.svg?logo=cursor&logoColor=white">
 <!--     <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?logo=adobe&logoColor=white"> -->
 <!--     <img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?logo=atom&logoColor=white"> -->
 <!--     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"> -->
