@@ -28,8 +28,8 @@
 
 - 🏫 I am a `Junior` at Faculty of Computers & AI at Cairo University.
 - 👨‍💻 I love `problem solving`.
-- 🔭 I’m currently learning `Deep Learning`.
-- 🤔 I’m currently open for a new `Internship opportunity`, this is <a href="https://drive.google.com/drive/folders/1lmUob2Y0L_1xPJgfzGrWjc8ZWCKlyXRB?usp=drive_link">MY RESUME<a>.
+- 🔭 I'm currently learning `Deep Learning`.
+- 🤔 I'm currently open for a new `Internship opportunity`, this is <a href="https://drive.google.com/drive/folders/1lmUob2Y0L_1xPJgfzGrWjc8ZWCKlyXRB?usp=drive_link">MY RESUME<a>.
   <br>
 
 <!-- Problem solving -->
@@ -144,7 +144,7 @@
 ## My Repositories
 
 <!-- AI Repositories-->
-<details><summary><h3>AI & Data Science</h3></summary>
+<details><summary><h3>🤖 AI & Data Science</h3></summary>
 
 ----
 
@@ -196,7 +196,7 @@
 </details>
 
 <!-- ALX Repositories-->
-<details><summary><h3>ALX</h3></summary>
+<details><summary><h3>🚀 ALX</h3></summary>
 
 ----
 
@@ -249,7 +249,7 @@
 
 
 <!-- General Repositories-->
-<details><summary><h3>General</h3></summary>
+<details><summary><h3>💻 General</h3></summary>
 
 ----
 
