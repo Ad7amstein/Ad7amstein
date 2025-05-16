@@ -255,53 +255,53 @@
 
 <!-- Repo1: DerivativeXpert -->
 <a href="https://github.com/Ad7amstein/DerivativeXpert">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=DerivativeXpert&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=DerivativeXpert&theme=graywhite" />
 </a>
 
 <!-- Repo2: Reinforcement-Learning-Algorithms -->
 <a href="https://github.com/Ad7amstein/Reinforcement-Learning-Algorithms">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Reinforcement-Learning-Algorithms&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Reinforcement-Learning-Algorithms&theme=graywhite" />
 </a>
 
 <!-- Repo3: Cognitive_Course_Project -->
 <a href="https://github.com/Ad7amstein/Cognitive_Course_Project">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Cognitive_Course_Project&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Cognitive_Course_Project&theme=graywhite" />
 </a>
 
 <!-- Repo4: SimpleCalculator-Verilog -->
 <a href="https://github.com/Ad7amstein/SimpleCalculator-Verilog">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=SimpleCalculator-Verilog&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=SimpleCalculator-Verilog&theme=graywhite" />
 </a>
 
 <!-- Repo5: CPU_Schedulers_Simulator -->
 <a href="https://github.com/Ad7amstein/CPU_Schedulers_Simulator">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=CPU_Schedulers_Simulator&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=CPU_Schedulers_Simulator&theme=graywhite" />
 </a>
 
 <!-- Repo5: Command-Line-InterpreterCPU_Schedulers_Simulator -->
 <a href="https://github.com/AyaA1i/Command-Line-Interpreter">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AyaA1i&repo=Command-Line-Interpreter&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AyaA1i&repo=Command-Line-Interpreter&theme=graywhite" />
 </a>
 
 <!-- Repo6: Toffee_Store -->
 <a href="https://github.com/Ad7amstein/Toffee_Store">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Toffee_Store&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Toffee_Store&theme=graywhite" />
 </a>
 
 <!-- Repo7: Linear_Structures -->
 <a href="https://github.com/Ad7amstein/Linear_Structures">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Linear_Structures&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Linear_Structures&theme=graywhite" />
 </a>
 
 
 <!-- Repo8: Board-Game-System -->
 <a href="https://github.com/Ad7amstein/Board-Game-System">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Board-Game-System&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Board-Game-System&theme=graywhite" />
 </a>
 
 <!-- Repo9: Find-The-Massage -->
 <a href="https://github.com/Ad7amstein/Find-The-Massage">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Find-The-Massage&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Find-The-Massage&theme=graywhite" />
 </a>
 
 </details>
