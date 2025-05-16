@@ -257,7 +257,7 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=DerivativeXpert&theme=chartreuse-dark" />
 </a>
 
-<!-- Repo2: DerivativeXpert -->
+<!-- Repo2: Reinforcement-Learning-Algorithms -->
 <a href="https://github.com/Ad7amstein/Reinforcement-Learning-Algorithms">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Reinforcement-Learning-Algorithms&theme=chartreuse-dark" />
 </a>
@@ -279,7 +279,7 @@
 
 <!-- Repo5: Command-Line-InterpreterCPU_Schedulers_Simulator -->
 <a href="https://github.com/AyaA1i/Command-Line-Interpreter">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Command-Line-Interpreter&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AyaA1i&repo=Command-Line-Interpreter&theme=chartreuse-dark" />
 </a>
 
 <!-- Repo6: Toffee_Store -->
