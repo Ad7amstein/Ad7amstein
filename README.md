@@ -150,47 +150,47 @@
 
 <!-- Repo1: Deep-Facial-Recognition -->
 <a href="https://github.com/Ad7amstein/Deep-Facial-Recognition">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Deep-Facial-Recognition&theme=neon" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Deep-Facial-Recognition&theme=radical" />
 </a>
 
 <!-- Repo2: idea_paraphrase_refinement -->
 <a href="https://github.com/Ad7amstein/idea_paraphrase_refinement">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=idea_paraphrase_refinement&theme=neon" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=idea_paraphrase_refinement&theme=radical" />
 </a>
 
 <!-- Repo3: Quiz-Generator -->
 <a href="https://github.com/Fawzy-AI-Explorer/Quiz-Generator">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fawzy-AI-Explorer&repo=Quiz-Generator&theme=neon" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fawzy-AI-Explorer&repo=Quiz-Generator&theme=radical" />
 </a>
 
 <!-- Repo4: micrograd -->
 <a href="https://github.com/Ad7amstein/micrograd">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=micrograd&theme=neon" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=micrograd&theme=radical" />
 </a>
 
 <!-- Repo5: Market-Price-Prediction -->
 <a href="https://github.com/Ad7amstein/Market-Price-Prediction">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Market-Price-Prediction&theme=neonk" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Market-Price-Prediction&theme=radical" />
 </a>
 
 <!-- Repo6: Market-Price-Prediction -->
 <a href="https://github.com/Ad7amstein/Market-Price-Prediction">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Market-Price-Prediction&theme=neon" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Market-Price-Prediction&theme=radical" />
 </a>
 
 <!-- Repo7: Disease-Prediction -->
 <a href="https://github.com/Ad7amstein/Disease-Prediction">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Disease-Prediction&theme=neon" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Disease-Prediction&theme=radical" />
 </a>
 
 <!-- Repo8: Logistic_Regression-Breast_Cancer_Diagnostic -->
 <a href="https://github.com/Ad7amstein/Logistic_Regression-Breast_Cancer_Diagnostic">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Logistic_Regression-Breast_Cancer_Diagnostic&theme=neon" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Logistic_Regression-Breast_Cancer_Diagnostic&theme=radical" />
 </a>
 
 <!-- Repo9: Linear_Regression-E-commerce -->
 <a href="https://github.com/Ad7amstein/Linear_Regression-E-commerce">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Linear_Regression-E-commerce&theme=neon" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Linear_Regression-E-commerce&theme=radical" />
 </a>
 
 </details>
