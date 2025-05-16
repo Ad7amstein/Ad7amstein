@@ -143,25 +143,167 @@
 
 ## My Repositories
 
+<!-- ALX Repositories-->
+<details><summary><h3>ALX</h3></summary>
+
+----
+
+<!-- Repo1: Printf -->
+<a href="https://github.com/Ad7amstein/printf">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=printf&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo2: Sorting Algorithms -->
+<a href="https://github.com/Ad7amstein/sorting_algorithms">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=sorting_algorithms&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo3: alx-system_engineering-devops -->
+<a href="https://github.com/Ad7amstein/alx-system_engineering-devops">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=alx-system_engineering-devops&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo4: alx-higher_level_programming -->
+<a href="https://github.com/Ad7amstein/alx-higher_level_programming">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=alx-higher_level_programming&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo5: alx-low_level_programming -->
+<a href="https://github.com/Ad7amstein/alx-low_level_programming">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=alx-low_level_programming&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo6: binary_trees -->
+<a href="https://github.com/Ad7amstein/binary_trees">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=binary_trees&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo7: AirBnB_clone -->
+<a href="https://github.com/Ad7amstein/AirBnB_clone">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=AirBnB_clone&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo8: AirBnB_clone_v2 -->
+<a href="https://github.com/Ad7amstein/AirBnB_clone_v2">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=AirBnB_clone_v2&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo8: Fix_My_Code_Challenge -->
+<a href="https://github.com/Ad7amstein/Fix_My_Code_Challenge">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Fix_My_Code_Challenge&theme=chartreuse-dark" />
+</a>
+
+</details>
+
+<!-- AI Repositories-->
+<details><summary><h3>AI & Data Science</h3></summary>
+
+----
+
+<!-- Repo1: Deep-Facial-Recognition -->
+<a href="https://github.com/Ad7amstein/Deep-Facial-Recognition">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Deep-Facial-Recognition&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo2: idea_paraphrase_refinement -->
+<a href="https://github.com/Ad7amstein/idea_paraphrase_refinement">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=idea_paraphrase_refinement&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo3: Quiz-Generator -->
+<a href="https://github.com/Fawzy-AI-Explorer/Quiz-Generator">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Quiz-Generator&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo4: micrograd -->
+<a href="https://github.com/Ad7amstein/micrograd">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=micrograd&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo5: Market-Price-Prediction -->
+<a href="https://github.com/Ad7amstein/Market-Price-Prediction">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Market-Price-Prediction&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo6: Market-Price-Prediction -->
+<a href="https://github.com/Ad7amstein/Market-Price-Prediction">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Market-Price-Prediction&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo7: Disease-Prediction -->
+<a href="https://github.com/Ad7amstein/Disease-Prediction">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Disease-Prediction&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo8: Logistic_Regression-Breast_Cancer_Diagnostic -->
+<a href="https://github.com/Ad7amstein/Logistic_Regression-Breast_Cancer_Diagnostic">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Logistic_Regression-Breast_Cancer_Diagnostic&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo9: Linear_Regression-E-commerce -->
+<a href="https://github.com/Ad7amstein/Linear_Regression-E-commerce">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Linear_Regression-E-commerce&theme=chartreuse-dark" />
+</a>
+
+</details>
+
+<!-- General Repositories-->
+<details><summary><h3>General</h3></summary>
+
+----
+
 <!-- Repo1: DerivativeXpert -->
 <a href="https://github.com/Ad7amstein/DerivativeXpert">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=DerivativeXpert&theme=chartreuse-dark" />
 </a>
 
-<!-- Repo2: Printf -->
-<a href="https://github.com/Ad7amstein/printf">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=printf&theme=chartreuse-dark" />
+<!-- Repo2: DerivativeXpert -->
+<a href="https://github.com/Ad7amstein/Reinforcement-Learning-Algorithms">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Reinforcement-Learning-Algorithms&theme=chartreuse-dark" />
 </a>
 
-<!-- Repo3: Deep-Facial-Recognition -->
-<a href="https://github.com/Ad7amstein/Deep-Facial-Recognition">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Deep-Facial-Recognition&theme=chartreuse-dark" />
+<!-- Repo3: Cognitive_Course_Project -->
+<a href="https://github.com/Ad7amstein/Cognitive_Course_Project">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Cognitive_Course_Project&theme=chartreuse-dark" />
 </a>
 
-<!-- Repo4: Sorting Algorithms -->
-<a href="https://github.com/Ad7amstein/sorting_algorithms">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=sorting_algorithms&theme=chartreuse-dark" />
+<!-- Repo4: SimpleCalculator-Verilog -->
+<a href="https://github.com/Ad7amstein/SimpleCalculator-Verilog">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=SimpleCalculator-Verilog&theme=chartreuse-dark" />
 </a>
+
+<!-- Repo5: CPU_Schedulers_Simulator -->
+<a href="https://github.com/Ad7amstein/CPU_Schedulers_Simulator">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=CPU_Schedulers_Simulator&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo5: Command-Line-InterpreterCPU_Schedulers_Simulator -->
+<a href="https://github.com/AyaA1i/Command-Line-Interpreter">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Command-Line-Interpreter&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo6: Toffee_Store -->
+<a href="https://github.com/Ad7amstein/Toffee_Store">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Toffee_Store&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo7: Linear_Structures -->
+<a href="https://github.com/Ad7amstein/Linear_Structures">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Linear_Structures&theme=chartreuse-dark" />
+</a>
+
+
+<!-- Repo8: Board-Game-System -->
+<a href="https://github.com/Ad7amstein/Board-Game-System">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Board-Game-System&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo9: Find-The-Massage -->
+<a href="https://github.com/Ad7amstein/Find-The-Massage">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Find-The-Massage&theme=chartreuse-dark" />
+</a>
+
+</details>
 
 <hr>
 
