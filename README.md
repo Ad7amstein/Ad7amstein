@@ -212,7 +212,7 @@
 
 <!-- Repo3: Quiz-Generator -->
 <a href="https://github.com/Fawzy-AI-Explorer/Quiz-Generator">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Quiz-Generator&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fawzy-AI-Explorer&repo=Quiz-Generator&theme=chartreuse-dark" />
 </a>
 
 <!-- Repo4: micrograd -->
