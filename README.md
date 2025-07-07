@@ -135,6 +135,7 @@
     <img alt="Colab Notebook" src="https://img.shields.io/badge/colab-notebook-yellow">
     <img alt="Cursor" src="https://img.shields.io/badge/Cursor-1C1E21.svg?logo=cursor&logoColor=white">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="Lightning AI" src="https://img.shields.io/badge/Lightning%20AI-792EE5.svg?logo=lightning&logoColor=white">
 <!--     <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?logo=adobe&logoColor=white"> -->
 <!--     <img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?logo=atom&logoColor=white"> -->
 <!--     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"> -->
