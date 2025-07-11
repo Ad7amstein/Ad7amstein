@@ -120,6 +120,7 @@
     <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white">
     <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-1C1E21.svg?logo=crewai&logoColor=white">
     <img alt="LLaMA-Factory" src="https://img.shields.io/badge/LLaMA--Factory-3C3C3C.svg?logo=llama&logoColor=white">
+    <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000.svg?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgdmlzaWJpbGl0eT0iaGlkZGVuIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjQgMEMxMC43NDMgMCAwIDEwLjc0MyAwIDI0YzAgMTMuMjU3IDEwLjc0MyAyNCAyNCAyNCAxMy4yNTcgMCAyNC0xMC43NDMgMjQtMjRTMzcuMjU3IDAgMjQgMHptNi42NjIgMzQuNjY0aC0xMy4zMzRMOS4zMzggMjQuMDMybDEuOTUtMS45NDggNi4wMDMgNi4wMDRWMTMuMzM1aDIuNzEzVjI2LjA0MWw2LjAwNC02LjAwNSAxLjk0OCAxLjk1LTguOTkzIDguOTg4aDExLjMzVjM0LjY2NFoiLz48L3N2Zz4=">
 <!--     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?ogo=plotly&logoColor=white">< -->
 <!--     <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white"> -->
 <!--     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"> -->
