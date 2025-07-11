@@ -26,7 +26,7 @@
 
 ## About Me:
 
-- 🏫 I am a `Junior` at Faculty of Computers & AI at Cairo University.
+- 🎓 I `graduated` from the Faculty of Computers & AI at Cairo University.
 - 👨‍💻 I love `problem solving`.
 - 🔭 I'm currently learning `Deep Learning`.
 - 🤔 I'm currently open for a new `Job opportunity`, this is <a href="https://drive.google.com/file/d/1njtILU3L-02wODocZem51gM6Mvh1_kpl/view?usp=drive_link">MY RESUME<a>.
