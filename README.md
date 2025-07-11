@@ -119,6 +119,7 @@
     <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white">
     <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white">
     <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-1C1E21.svg?logo=crewai&logoColor=white">
+    <img alt="LLaMA-Factory" src="https://img.shields.io/badge/LLaMA--Factory-3C3C3C.svg?logo=llama&logoColor=white">
 <!--     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?ogo=plotly&logoColor=white">< -->
 <!--     <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white"> -->
 <!--     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"> -->
