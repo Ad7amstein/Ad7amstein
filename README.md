@@ -343,3 +343,10 @@
 </p>
 <br/>
 </details>
+
+## 🐍 Snake Eating my Contributions:
+
+<p aligh="center">
+<img src="https://raw.githubusercontent.com/Ad7amstein/Ad7amstein/output/snake.svg" alt="Snake animation" />
+<br/>
+</p>
