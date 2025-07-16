@@ -209,42 +209,47 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=printf&theme=chartreuse-dark" />
 </a>
 
-<!-- Repo2: Sorting Algorithms -->
+<!-- Repo2: simple_shell -->
+<a href="https://github.com/Abd-Elfattah5/simple_shell">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abd-Elfattah5&repo=simple_shell&theme=chartreuse-dark" />
+</a>
+
+<!-- Repo3: Sorting Algorithms -->
 <a href="https://github.com/Ad7amstein/sorting_algorithms">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=sorting_algorithms&theme=chartreuse-dark" />
 </a>
 
-<!-- Repo3: alx-system_engineering-devops -->
+<!-- Repo4: alx-system_engineering-devops -->
 <a href="https://github.com/Ad7amstein/alx-system_engineering-devops">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=alx-system_engineering-devops&theme=chartreuse-dark" />
 </a>
 
-<!-- Repo4: alx-higher_level_programming -->
+<!-- Repo5: alx-higher_level_programming -->
 <a href="https://github.com/Ad7amstein/alx-higher_level_programming">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=alx-higher_level_programming&theme=chartreuse-dark" />
 </a>
 
-<!-- Repo5: alx-low_level_programming -->
+<!-- Repo6: alx-low_level_programming -->
 <a href="https://github.com/Ad7amstein/alx-low_level_programming">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=alx-low_level_programming&theme=chartreuse-dark" />
 </a>
 
-<!-- Repo6: binary_trees -->
+<!-- Repo7: binary_trees -->
 <a href="https://github.com/Ad7amstein/binary_trees">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=binary_trees&theme=chartreuse-dark" />
 </a>
 
-<!-- Repo7: AirBnB_clone -->
+<!-- Repo8: AirBnB_clone -->
 <a href="https://github.com/Ad7amstein/AirBnB_clone">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=AirBnB_clone&theme=chartreuse-dark" />
 </a>
 
-<!-- Repo8: AirBnB_clone_v2 -->
+<!-- Repo9: AirBnB_clone_v2 -->
 <a href="https://github.com/Ad7amstein/AirBnB_clone_v2">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=AirBnB_clone_v2&theme=chartreuse-dark" />
 </a>
 
-<!-- Repo8: Fix_My_Code_Challenge -->
+<!-- Repo10: Fix_My_Code_Challenge -->
 <a href="https://github.com/Ad7amstein/Fix_My_Code_Challenge">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ad7amstein&repo=Fix_My_Code_Challenge&theme=chartreuse-dark" />
 </a>
