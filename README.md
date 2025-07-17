@@ -317,7 +317,7 @@
 
 <hr>
 
-## GitHub Status:
+## GitHub Analytics:
 
 <!-- Streak Status-->
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
