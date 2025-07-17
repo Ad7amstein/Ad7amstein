@@ -1,11 +1,7 @@
 <!-- My Name -->
 <h1 align="center">Hi there 👋, I'm Adham Allam</h1>
 
-<!-- Typing 
-<p  align="center" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=08FF16&center=true&vCenter=true&width=435&lines=AI+Trainee+%40V4Tech;CS+%26+AI+Graduate+from+Cairo+University;Let's+Build+Something+Useful+Together!%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
-<br>
--->
+<!-- Typing -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=08FF16&center=true&vCenter=true&width=600&lines=AI+Trainee+%40V4Tech;CS+%26+AI+Graduate+from+Cairo+University👨‍🎓;Let's+Build+Something+Useful+Together!👨‍💻" alt="Typing SVG" />
 </div>
@@ -15,7 +11,7 @@
 	<!--<a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/7oSkaaa" alt="Most Active Users" target="_blank" width=40%/> 
 	</a>-->
-	<img src="https://komarev.com/ghpvc/?username=Ad7amstein&label=Profile%20views&color=4ac71d&labelColor=000000&style=for-the-badge" alt="Ad7amstein" width=17.40%/>
+	<img src="https://komarev.com/ghpvc/?username=Ad7amstein&label=Profile%20views&color=4ac71d&style=flat" alt="Profile Views" />
 	&emsp;
 	<a href="https://user-badge.committers.top/egypt_private/Ad7amstein">
 	    <img src="https://user-badge.committers.top/egypt_private/Ad7amstein.svg" alt="committers.top badge" width=20.40%>
