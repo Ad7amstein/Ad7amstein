@@ -98,53 +98,39 @@
 
 ### 👨‍💻 Programming languages
 
-<div align="center" >
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<!--     <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?logo=r&logoColor=white"> -->
-<!--     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"> -->
-<!--     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"> -->
-<!--     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"> -->
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,markdown" alt="Programming Languages"/>
+  </a>
+</p>
 
 ### 🧰 Frameworks and libraries
 
-<div align="center" >
-    <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white">
-    <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white">
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black">
-    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white">
-    <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white">
-    <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white">
-    <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-1C1E21.svg?logo=crewai&logoColor=white">
-    <img alt="LLaMA-Factory" src="https://img.shields.io/badge/LLaMA--Factory-3C3C3C.svg?logo=llama&logoColor=white">
-    <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="Frameworks and Libraries"/>
+  </a>
+<img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-1C1E21.svg?logo=crewai&logoColor=white">
+<img alt="LLaMA-Factory" src="https://img.shields.io/badge/LLaMA--Factory-3C3C3C.svg?logo=llama&logoColor=white">
+<img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white">
 <!--     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?ogo=plotly&logoColor=white">< -->
 <!--     <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white"> -->
 <!--     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"> -->
-</div>
+</p>
 
 ### 💻 Software and tools
 
-<div align="center" >
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,clion,linux" alt="Software and tools"/>
+  </a>
     <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white">
-    <img alt="CLion" src="https://img.shields.io/badge/CLion-black?logo=clion&logoColor=white">
     <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
     <img alt="Colab Notebook" src="https://img.shields.io/badge/colab-notebook-yellow">
     <img alt="Cursor" src="https://img.shields.io/badge/Cursor-1C1E21.svg?logo=cursor&logoColor=white">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     <img alt="Lightning AI" src="https://img.shields.io/badge/Lightning%20AI-792EE5.svg?logo=lightning&logoColor=white">
-<!--     <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?logo=adobe&logoColor=white"> -->
-<!--     <img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?logo=atom&logoColor=white"> -->
-<!--     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"> -->
-<!--     <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green"> -->
-<!--     <img alt="VS Code Insiders" src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?logo=visual-studio-code&logoColor=white"> -->
-</div>
+</p>
 
 ## My Repositories
 
