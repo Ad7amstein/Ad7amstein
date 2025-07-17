@@ -1,11 +1,14 @@
 <!-- My Name -->
 <h1 align="center">Hi there 👋, I'm Adham Allam</h1>
 
-<!-- Typing -->
+<!-- Typing 
 <p  align="center" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=02F730ED&center=true&vCenter=true&width=435&lines=CS%2FAI%2FDS+Student++%40FCAI-CU;Aspiring+Data+Scientist" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=08FF16&center=true&vCenter=true&width=435&lines=AI+Trainee+%40V4Tech;CS+%26+AI+Graduate+from+Cairo+University;Let's+Build+Something+Useful+Together!%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 <br>
+-->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=08FF16&center=true&vCenter=true&width=600&lines=AI+Trainee+%40V4Tech;CS+%26+AI+Graduate+from+Cairo+University👨‍🎓;Let's+Build+Something+Useful+Together!👨‍💻" alt="Typing SVG" />
+</div>
 
 <!-- Ranks -->
 <p align="center"> 
@@ -17,6 +20,8 @@
 	<a href="https://user-badge.committers.top/egypt_private/Ad7amstein">
 	    <img src="https://user-badge.committers.top/egypt_private/Ad7amstein.svg" alt="committers.top badge" width=20.40%>
 	</a>
+	&emsp;
+ 	<img src="https://img.shields.io/github/followers/Ad7amstein?label=Followers&style=social" alt="GitHub Followers" />
 
 </p>
 <!--![Profile views](https://gpvc.arturio.dev/Ad7amstein)  -->
