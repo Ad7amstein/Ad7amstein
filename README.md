@@ -327,7 +327,8 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ad7amstein&theme=tokyonight_duo" alt="Ad7amstein" /></p>
 
 </details>
-<!-- Contributions -->
+
+<!-- Contributions Stats-->
 <details><summary><h3>💻 Contribution Stats</h3></summary>
 
 ---
@@ -336,6 +337,17 @@
 	<img alt="Ad7amstein's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ad7amstein&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
 <br/>
 </p>
+</details>
+
+<!-- Contributions Graph-->
+<details><summary><h3>📈 Contribution Graph</h3></summary>
+
+---
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ad7amstein&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<br/>
+</div>
+
 </details>
 
 <!-- Top Languages -->
