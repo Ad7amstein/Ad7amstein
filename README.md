@@ -311,7 +311,7 @@
 
 ----
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ad7amstein&theme=tokyonight_duo" alt="Ad7amstein" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=Ad7amstein&theme=highcontrast&exclude_days=Fri%2CSat" alt="GitHub Streak" /</p>
 
 </details>
 
