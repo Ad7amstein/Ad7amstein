@@ -108,8 +108,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="Frameworks and Libraries"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv" alt="Frameworks and Libraries"/>
   </a>
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white">
 <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-1C1E21.svg?logo=crewai&logoColor=white">
 <img alt="LLaMA-Factory" src="https://img.shields.io/badge/LLaMA--Factory-3C3C3C.svg?logo=llama&logoColor=white">
 <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white">
