@@ -111,6 +111,7 @@
     <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv" alt="Frameworks and Libraries"/>
   </a>
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
 <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white">
 <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-1C1E21.svg?logo=crewai&logoColor=white">
 <img alt="LLaMA-Factory" src="https://img.shields.io/badge/LLaMA--Factory-3C3C3C.svg?logo=llama&logoColor=white">
