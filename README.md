@@ -108,7 +108,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,mongodb,docker" alt="Frameworks and Libraries"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,mongodb" alt="Frameworks and Libraries"/>
   </a>
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
@@ -125,7 +125,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,clion,linux,obsidian,visualstudio" alt="Software and tools"/>
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,clion,linux,obsidian,visualstudio,docker" alt="Software and tools"/>
   </a>
     <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white">
     <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white">
