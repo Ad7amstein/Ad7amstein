@@ -125,7 +125,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,clion,linux,ubuntu,obsidian,visualstudio,docker,windows" alt="Software and tools"/>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,windows,visualstudio,vscode,clion,sublime,docker,obsidian" alt="Software and tools"/>
   </a>
     <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white">
     <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white">
