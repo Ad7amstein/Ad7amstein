@@ -108,7 +108,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,mongodb" alt="Frameworks and Libraries"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,mongodb,fastapi" alt="Frameworks and Libraries"/>
   </a>
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
