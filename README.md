@@ -314,7 +314,7 @@
 
 ----
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=Ad7amstein&theme=highcontrast&exclude_days=Fri%2CSat" alt="GitHub Streak" /</p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=Ad7amstein&theme=highcontrast" alt="GitHub Streak" /</p>
 
 </details>
 
