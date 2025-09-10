@@ -110,6 +110,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,mongodb,postgres,fastapi,prometheus" alt="Frameworks and Libraries"/>
   </a>
+	&emsp;
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
 <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white">
@@ -124,15 +125,18 @@
 ### 💻 Software and tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,windows,vim,visualstudio,vscode,clion,sublime,postman,nginx,docker,obsidian,notion,stackoverflow" alt="Software and tools"/>
-  </a>
-    <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white">
-    <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-    <img alt="Colab Notebook" src="https://img.shields.io/badge/colab-notebook-yellow">
-    <img alt="Cursor" src="https://img.shields.io/badge/Cursor-1C1E21.svg?logo=cursor&logoColor=white">
-    <img alt="Lightning AI" src="https://img.shields.io/badge/Lightning%20AI-792EE5.svg?logo=lightning&logoColor=white">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,windows,vim,visualstudio,vscode,clion,sublime,postman,nginx,docker,obsidian,notion,stackoverflow" alt="Software and tools"/>
+	</a>
+</p>
+
+<p align="center">
+	<img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white">
+	<img alt="Cursor" src="https://img.shields.io/badge/Cursor-1C1E21.svg?logo=cursor&logoColor=white">
+	<img alt="Lightning AI" src="https://img.shields.io/badge/Lightning%20AI-792EE5.svg?logo=lightning&logoColor=white">
+	<img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white">
+	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+	<img alt="Colab Notebook" src="https://img.shields.io/badge/colab-notebook-yellow">
 </p>
 
 ## My Repositories
