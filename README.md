@@ -3,7 +3,7 @@
 
 <!-- Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=08FF16&center=true&vCenter=true&width=600&lines=AI+Trainee+%40V4Tech;CS+%26+AI+Graduate+from+Cairo+University👨‍🎓;Let's+Build+Something+Useful+Together!👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=08FF16&center=true&vCenter=true&width=600&lines=AI+Developer+%40V4Tech;CS+%26+AI+Graduate+from+Cairo+University👨‍🎓;Let's+Build+Something+Useful+Together!👨‍💻" alt="Typing SVG" />
 </div>
 
 <!-- Ranks -->
