@@ -128,7 +128,7 @@
 
 <p align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,windows,vim,visualstudio,vscode,clion,sublime,postman,nginx,docker,obsidian,notion,stackoverflow" alt="Software and tools"/>
+		<img src="https://skillicons.dev/icons?i=git,github,azure,linux,ubuntu,windows,vim,visualstudio,vscode,clion,sublime,postman,nginx,docker,obsidian,notion,stackoverflow" alt="Software and tools"/>
 	</a>
 </p>
 
