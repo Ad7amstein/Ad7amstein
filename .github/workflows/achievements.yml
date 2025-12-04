@@ -1,4 +1,7 @@
 name: Achievements
+permissions:
+  contents: write
+
 on:
   schedule: [{ cron: "1 * * * *" }]
   # Lines below let you run workflow manually and on each commit
