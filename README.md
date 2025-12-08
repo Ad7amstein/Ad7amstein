@@ -119,6 +119,7 @@
 <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white">
 <img alt="LangChain" src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green">
 <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0A0A0A.svg?logo=langgraph&logoColor=white">
+<img alt="Google ADK" src="https://img.shields.io/badge/Google%20ADK-0A0A0A?logo=googlegemini&logoColor=#8E75B2">
 <!--     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?ogo=plotly&logoColor=white">< -->
 <!--     <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white"> -->
 <!--     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"> -->
