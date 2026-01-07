@@ -30,7 +30,7 @@
 - 🎓 I `graduated` from the Faculty of Computers & AI at Cairo University.
 - 👨‍💻 I love `problem solving`.
 - 🔭 I'm currently learning `Deep Learning`.
-- Here is <a href="https://drive.google.com/file/d/1njtILU3L-02wODocZem51gM6Mvh1_kpl/view?usp=drive_link">MY RESUME<a>.
+- 📄 Here is <a href="https://drive.google.com/file/d/1njtILU3L-02wODocZem51gM6Mvh1_kpl/view?usp=drive_link">MY RESUME<a>.
   <br>
 
 <!-- Problem solving -->
