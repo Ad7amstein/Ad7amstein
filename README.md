@@ -7,7 +7,7 @@
 </div>
 
 <!-- Ranks -->
-<p align="center"> 
+<p align="center">
 	<!--<a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/7oSkaaa" alt="Most Active Users" target="_blank" width=40%/> 
 	</a>-->
@@ -328,7 +328,7 @@
 <!-- Contributions Stats-->
 <details><summary><h3>💻 Contribution Stats</h3></summary>
 
----
+----
 
 <p align="center">
 	<img alt="Ad7amstein's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ad7amstein&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
@@ -339,7 +339,8 @@
 <!-- Contributions Graph-->
 <details><summary><h3>📈 Contribution Graph</h3></summary>
 
----
+----
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ad7amstein&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 <br/>
@@ -350,7 +351,7 @@
 <!-- Top Languages -->
 <details><summary><h3>📊 Top Languages</h3></summary>
 
----
+----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad7amstein&layout=pie&theme=dark&hide=html,jupyter%20notebook" alt="Top Languages">
