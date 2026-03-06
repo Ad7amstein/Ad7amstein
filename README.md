@@ -347,17 +347,6 @@
 
 </details>
 
-<!-- GitHub Achievements -->
-<details><summary><h3>🏆 GitHub Achievements</h3></summary>
-
----
-<div align="center">
-  <img src="assets/metrics.plugin.achievements.svg" alt="GitHub Achievements" />
-<br/>
-</div>
-
-</details>
-
 <!-- Top Languages -->
 <details><summary><h3>📊 Top Languages</h3></summary>
 
